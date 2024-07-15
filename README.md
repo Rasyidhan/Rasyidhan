@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rasyidhan
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Programing
+- 📫 How to reach me linkedin.com/in/rasyidhani
+- ⚡ Fun fact: new hobby for running sport
