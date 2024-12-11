@@ -1,3 +1,6 @@
+Data Analytics Portfolio - Rasyidhani Aditya Rizky
+==
+
 Hello everyone, I'm Rasyid.
 
 I hold a Bachelor's degree in **Statistics** with a focus on economics and business from Universitas Negeri Yogyakarta. My interest in data began when I decided to pursue a degree in Statistics. I have skills in **data analysis, statistical understanding, programming, and data visualization, particularly in the fields of economics and business**.
