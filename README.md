@@ -20,7 +20,7 @@ Welcome to my data analysis portfolio!
   This dataset originates from Kaggle, titled “Amazon Sales Data”. It includes over 1000 reviews and ratings of products listed on Amazon, with price labels in Indian Rupees. My primary objective is to prepare this data for exploration and present the findings through visualizations. The use of this data is inspired by Amazon's e-commerce system, which places significant emphasis on customer reviews and ratings. This data can be utilized as a concrete basis for data-driven decision-making to enhance customer service, identify product issues, and develop effective marketing strategies.
 
 
-  ### [Technical_and_Fundamental_Analysis_of_stocks_BBCA.JK](Technical_and_Fundamental_Analysis_of_stocks_BBCA.ipynb)
+  ### [Technical and Fundamental Analysis of Stocks BBCA.JK](Technical_and_Fundamental_Analysis_of_stocks_BBCA.ipynb)
 
   <img src="https://github.com/Rasyidhan/github.com-Portofolio/blob/main/Analisis%20Teknikal%20Atau%20Fundamental.jpg" width="300" height="200">
   
