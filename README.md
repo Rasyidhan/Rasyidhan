@@ -13,7 +13,7 @@ Welcome to my data analysis portfolio!
 
 ## Project
 
-### [Amazon Sales Data]()
+### [Amazon Sales Data](https://github.com/Rasyidhan/github.com-Portofolio/blob/main/Amazon%20Sales/Amazon_Sales_Data.ipynb)
 
 <img src="https://github.com/Rasyidhan/github.com-Portofolio/blob/main/Amazon%20Sales/orang%20mengantar%20paket.png" width="300" height="200">
 
