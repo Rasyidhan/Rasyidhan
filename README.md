@@ -27,3 +27,10 @@ Welcome to my data analysis portfolio!
 Technical analysis is a trading discipline used to evaluate investments and identify trading opportunities by analyzing statistical trends from trading activities, such as price movements and volume. Unlike fundamental analysts, who try to assess a security's intrinsic value, technical analysts focus on patterns of price movements, trading signals, and various other analytical charting tools to evaluate a security's strength or weakness. Commonly used technical indicators include : Relative StochStrength Indicator (RSI), Stochastic (STOCH)mac, Moving Average Convergence Divergence (MACD), Average WiDirectional Movement (ADX), Williams %R (WillR), Commodity Channel Index (CCI), Averagehig True Range (ATR), Ultimate Oscillator (ULTOSC)roc, and Rate of Change (ROC).
 
 Fundamental analysis of stocks is a method used to determine the intrinsic value of a stock. This is done by analyzing various economic, financial, and other qualitative and quantitative factors that can affect the stock's value. The main goal of fundamental analysis is to determine whether a stock is overvalued or undervalued based on the company's financial condition and future prospects. Some key indicators used in fundamental analysis include : ROA (Return on Assets), ROE (Return on Equity), DA (Debt to Assets),and DE (Debt to Equity)
+
+
+### [Analysis Heart Attack](https://github.com/Rasyidhan/github.com-Portofolio/blob/main/Analysis%20Heart%20Attack/analysis_heart_attack.ipynb)
+
+<img src="https://github.com/Rasyidhan/github.com-Portofolio/blob/main/Analysis%20Heart%20Attack/Heart%20Attack.jpg" width="300" height="200">
+
+The dataset originates from Kaggle and has been adjusted to categorize age groups: youth (< 19 years) and adults (≥ 19 years). This dataset contains 270,000 rows and 30 columns of data representing the risk factors, demographics, and health behaviors related to heart attacks among youth and adults in China. The dataset is designed to be realistic and diverse, reflecting a mix of medical, lifestyle, and socioeconomic factors.
