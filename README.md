@@ -34,3 +34,10 @@ Fundamental analysis of stocks is a method used to determine the intrinsic value
 <img src="https://github.com/Rasyidhan/github.com-Portofolio/blob/main/Analysis%20Heart%20Attack/Heart%20Attack.jpg" width="300" height="200">
 
 The dataset originates from Kaggle and has been adjusted to categorize age groups: youth (< 19 years) and adults (≥ 19 years). This dataset contains 270,000 rows and 30 columns of data representing the risk factors, demographics, and health behaviors related to heart attacks among youth and adults in China. The dataset is designed to be realistic and diverse, reflecting a mix of medical, lifestyle, and socioeconomic factors.
+
+
+### [Indonesia Earthqukes](https://github.com/Rasyidhan/github.com-Portofolio/blob/f209fb8d2b0df6d4893cee7f49c202f9f00feacf/Indonesia%20Earthquakers/earthquakes_in_indonesia_2008-2024.ipynb)
+
+<img src="https://github.com/Rasyidhan/github.com-Portofolio/blob/main/Indonesia%20Earthquakers/earthquakes-aftershocks.jpeg" width="300" height="200">
+
+This dataset is taken from the Earthquake Repository managed by BMKG (an Indonesian non-departmental government agency). BMKG changed their site design in early 2023, and this resulted in two different datasets. The new dataset (katalog_gempa_v2.tsv) is taken from the Preliminary Earthquake Catalog which includes focal mechanism data. It contains earthquake event data from 1 Nov 2008 to 25 Nov 2024, but may not be accurate for some of the last earthquake events recorded. There are 38 variables in this dataset.
